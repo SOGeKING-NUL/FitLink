@@ -45,6 +45,9 @@ export default function Navbar() {
           scrolled ? "bg-[#e8f9ef]/90 backdrop-blur-md border-b border-green-200 shadow-sm" : "bg-[#e8f9ef]"
         }`}
       >
+        <div className="bg-green-500 text-black py-1 text-center">
+        Beta Version, please use Sepolia Testnet for transactions.
+        </div>
         <div className="container px-4 md:px-6 mx-auto">
           <div className="flex h-16 items-center justify-between">
             <div className="flex items-center">
