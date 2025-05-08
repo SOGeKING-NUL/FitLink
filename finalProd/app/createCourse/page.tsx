@@ -15,8 +15,8 @@ import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
 import { contractABI } from "@/lib/contract-abi"
 import { contractAddress } from "@/lib/utils"
 
-const CONTRACT_ADDRESS = contractAddress
-const IMGBB_API_KEY = process.env.NEXT_PUBLIC_IMGBB_API_KEY
+const CONTRACT_ADDRESS = contractAddress;
+const IMGBB_API_KEY = process.env.NEXT_PUBLIC_IMGBB_API_KEY;
 
 export default function CreateProgramPage() {
   const router = useRouter()
