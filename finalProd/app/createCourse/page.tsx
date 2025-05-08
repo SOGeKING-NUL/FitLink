@@ -16,7 +16,7 @@ import { contractABI } from "@/lib/contract-abi"
 import { contractAddress } from "@/lib/utils"
 
 const CONTRACT_ADDRESS = contractAddress
-const IMGBB_API_KEY = "9df98e0b413b9e091f82c4adf8b68d5a"
+const IMGBB_API_KEY = process.env.NEXT_PUBLIC_IMGBB_API_KEY
 
 export default function CreateProgramPage() {
   const router = useRouter()
