@@ -46,7 +46,7 @@ export default function Navbar() {
         }`}
       >
         <div className="bg-green-500 text-black py-1 text-center">
-        Beta Version, please use Sepolia Testnet for transactions.
+        Beta Version, please connect to Sepolia Testnet for interactinos, otherwise might throw erros.
         </div>
         <div className="container px-4 md:px-6 mx-auto">
           <div className="flex h-16 items-center justify-between">
