@@ -1,9 +1,9 @@
-# FitLink - Blockchain Fitness Marketplace
+# FitLink - OnChain Fitness Marketplace
 
 
 [please checkout our multiple chatroom feature here](https://github.com/SOGeKING-NUL/FitLink/tree/main/almost%20perfect)
 
-FitLink is a decentralized marketplace for fitness programs built on blockchain technology. The platform allows fitness professionals to create, sell, and manage their fitness programs while users can purchase access to these programs using cryptocurrency. The interactive chat that is setup in a decentralized manner using thw Waku protocol allows uses as well as professionals to connect with each other.
+FitLink is an onchain marketplace for fitness programs built on blockchain technology. The platform allows fitness professionals to create, sell, and manage their fitness programs while users can purchase access to these programs using cryptocurrency. The interactive chat that is setup in a onchain manner using thw Waku protocol allows uses as well as professionals to connect with each other.
 
 
 
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/b98ca629-6589-4126-97a5-72d583d8519e
 
 ## Features
 
-Decentralized Marketplace: Buy and sell fitness programs using Ethereum
+onchain Marketplace: Buy and sell fitness programs using Ethereum
 
 Program Creation: Trainers can create and list their fitness programs with images and materials
 ![image](https://github.com/user-attachments/assets/85807dbe-8b10-444a-9401-69c2f6cfd314)
@@ -35,7 +35,7 @@ User Dashboard: Manage your created and purchased fitness programs
 ![image](https://github.com/user-attachments/assets/4ca9e8ce-e318-4bb9-8c05-cd64957aec46)
 
 
-Real-time Decentralized Chat: Connect directly with trainers and other users through peer-to-peer messaging
+Real-time onchain Chat: Connect directly with trainers and other users through peer-to-peer messaging
 ![image](https://github.com/user-attachments/assets/f624ee91-a077-48c9-8004-9739356f768e)
 
 
@@ -62,13 +62,13 @@ Image Hosting: ImgBB API
 
 Styling: Custom fitness-themed UI with green color scheme
 
-Messaging Protocol: Waku Protocol for decentralized communication
+Messaging Protocol: Waku Protocol for onchain communication
 
 Message Storage: Waku Store Protocol for persistent chat history
 
 P2P Network: Waku Light Node for efficient peer-to-peer messaging
 
-These additions highlight the decentralized communication features that Waku brings to your fitness marketplace, making it more interactive and community
+These additions highlight the onchain communication features that Waku brings to your fitness marketplace, making it more interactive and community
 
 ## Smart Contract
 
@@ -97,11 +97,11 @@ OR:
 3. Fill in program details, upload an image, and provide materials link
 4. Set a price and publish your program
 5. Manage your programs from the dashboard
-6. Use Decentralized chat to talk to your users and connect with them.
+6. Use onchain chat to talk to your users and connect with them.
 
 ### For Users
 1. Connect your wallet
 2. Browse available fitness programs
 3. Purchase programs with ETH
 4. Access program materials through your dashboard
-5. use the Decentralized chat and connect with the right Trainers
+5. use the onchain chat and connect with the right Trainers
